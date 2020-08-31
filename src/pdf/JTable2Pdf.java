@@ -28,9 +28,9 @@ public class JTable2Pdf extends JFrame {
      }
      private void createTable() {
          Object[][] data = {
-                   {"Kathy", "Smith",
+                   {"Julio", "Cesar",
                     "SnowboardingXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX", new Integer(5), new Boolean(false)},
-                   {"John", "Doe",
+                   {"María", "Perez",
                     "Rowing", new Integer(3), new Boolean(true)},
                    {"Sue", "Black",
                     "Knitting", new Integer(2), new Boolean(false)},
